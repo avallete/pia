@@ -49,7 +49,7 @@ import { ErrorsComponent } from 'app/errors/errors.component';
 import {
     ActionPlanImplementationComponent
   } from 'app/entry/entry-content/action-plan/action-plan-implementation/action-plan-implementation.component';
-import { environment } from '../environments/environment';
+import { environment } from '../environments/environment.prod';
 import { ListItemComponent } from 'app/cards/list-item/list-item.component';
 import { SummaryComponent } from 'app/summary/summary.component';
 import { AboutComponent } from 'app/about/about.component';
